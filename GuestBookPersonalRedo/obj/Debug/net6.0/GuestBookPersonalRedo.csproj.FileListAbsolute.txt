@@ -1,0 +1,15 @@
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\bin\Debug\net6.0\GuestBookPersonalRedo.exe
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\bin\Debug\net6.0\GuestBookPersonalRedo.deps.json
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\bin\Debug\net6.0\GuestBookPersonalRedo.runtimeconfig.json
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\bin\Debug\net6.0\GuestBookPersonalRedo.dll
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\bin\Debug\net6.0\GuestBookPersonalRedo.pdb
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\GuestBookPersonalRedo.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\GuestBookPersonalRedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\GuestBookPersonalRedo.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\GuestBookPersonalRedo.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\GuestBookPersonalRedo.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\GuestBookPersonalRedo.dll
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\refint\GuestBookPersonalRedo.dll
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\GuestBookPersonalRedo.pdb
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\GuestBookPersonalRedo.genruntimeconfig.cache
+C:\Users\ayoub\source\repos\GuestBookPersonalRedoApp\GuestBookPersonalRedo\obj\Debug\net6.0\ref\GuestBookPersonalRedo.dll
